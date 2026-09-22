@@ -3,3 +3,4 @@
 __pycache__/
 system_status.json
 .DS_Store
+logs/
